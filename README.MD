@@ -1,14 +1,15 @@
-# 👋 Hi, I'm KALIRAJAN  
+# 👋 Hi, I'm Kalirajan  
 
-🚀 **Full-Stack & Mobile App Developer** | 💻 Passionate about building scalable web and mobile apps  
+🚀 **Full-Stack & Mobile App Developer**  
+💻 Passionate about building scalable **Web & Mobile Apps** | ⚡ Always exploring new tech  
 
 ---
 
 ## 👨‍💻 About Me
-- 🌱 Currently learning **MERN Stack & Flutter advanced concepts**  
+- 🌱 Currently learning **MERN Stack** & **Flutter advanced concepts**  
 - 💡 Interested in **Web, Mobile Apps & Cloud Technologies**  
 - 🎯 Goal: To become a **versatile full-stack developer**  
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/m-kalirajan)   
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/m-kalirajan)  
 
 ---
 
@@ -40,23 +41,39 @@
 
 ## 📂 Featured Projects  
 
-🔹 [**Finance App**](https://github.com/M-KALIRAJAN/Sri_Vari-Finance-) – Money collection, due entry, loan management (Flutter + Firebase)  
+🔹 [**Finance App**](https://github.com/M-KALIRAJAN/Sri_Vari-Finance-) – Loan collection, due entry, employee management (Flutter + Firebase)  
 🔹 [**Role-Based Dashboard**](https://github.com/M-KALIRAJAN/2DCAD) – React + TailwindCSS with SuperAdmin/User roles  
-🔹 [**WhatsApp OTP & Bulk Messaging System**](https://github.com/M-KALIRAJAN/CnX) – Django REST + React + WhatsApp API  
-🔹 [**MERN Auth Boilerplate**](https://github.com/M-KALIRAJAN/Pagination-in-React) – Full-stack authentication with JWT & Docker  
+🔹 [**WhatsApp OTP & Bulk Messaging System**](https://github.com/M-KALIRAJAN/CnX) – Django REST + React + WhatsApp Cloud API  
+🔹 [**MERN Auth Boilerplate**](https://github.com/M-KALIRAJAN/Pagination-in-React) – Authentication with JWT, Express API, and React frontend  
 
 ---
 
 ## 📊 GitHub Stats  
 
-![kalirajan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=M-KALIRAJAN&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M-KALIRAJAN&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=M-KALIRAJAN&show_icons=true&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-KALIRAJAN&theme=tokyonight" height="180px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-KALIRAJAN&layout=compact&theme=tokyonight" height="180px"/>
+</p>
+
+---
+
+## 🏆 GitHub Achievements  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=M-KALIRAJAN&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
 ---
 
 ## 🌍 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-link)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/m-kalirajan)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox)](https://your-portfolio-link.com)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)  
 
 ---
-⭐️ From [KALIRAJAN](https://github.com/M-KALIRAJAN/M-KALIRAJAN)  
+
+⭐️ From [Kalirajan](https://github.com/M-KALIRAJAN)  
