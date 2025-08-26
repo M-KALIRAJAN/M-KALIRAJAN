@@ -49,8 +49,10 @@
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M-KALIRAJAN
+&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M-KALIRAJAN
+&layout=compact&theme=tokyonight)  
 
 ---
 
@@ -60,4 +62,4 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)  
 
 ---
-⭐️ From [Ramesh](https://github.com/M-KALIRAJAN/M-KALIRAJAN)  
+⭐️ From [KALIRAJAN](https://github.com/M-KALIRAJAN/M-KALIRAJAN)  
