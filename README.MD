@@ -76,7 +76,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-KALIRAJAN&theme=tokyonight" height="150"/>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=M-KALIRAJAN&color=blue)
 
 ---
 
