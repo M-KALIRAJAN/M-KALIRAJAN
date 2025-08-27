@@ -1,13 +1,17 @@
 # 👋 Hi, I'm KALIRAJAN 🚀  
 **Full-Stack & Mobile App Developer** | 💻 Passionate about building scalable Web & Mobile Applications  
 
+<img align="right" width="350" height="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 ---
 
 ## 👨‍💻 About Me  
-- 🌱 Currently learning **MERN Stack** & **Advanced Flutter Concepts**  
-- 💡 Interested in **Web Development, Mobile Apps & Cloud Technologies**  
+- 🔭 I’m currently working on **Full-Stack & Mobile Applications**  
+- 🌱 Learning **MERN Stack & Advanced Flutter**  
+- 💡 Exploring **Docker, Kubernetes & Cloud Technologies**  
 - 🎯 Goal: To become a **versatile Full-Stack Developer**  
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/m-kalirajan)  
+- ⚡ Fun fact: I started as a **mobile developer**, now I’m diving deep into **web & cloud** 🚀  
 
 ---
 
@@ -46,22 +50,38 @@
 ---
 
 ## 📂 Featured Projects  
-- 🔹 [**Finance App**](https://github.com/M-KALIRAJAN/Sri_Vari-Finance-) – Money collection, due entry, loan management *(Flutter + Firebase)*  
-- 🔹 [**Role-Based Dashboard**](https://github.com/M-KALIRAJAN/2DCAD) – Role-based access control with React + TailwindCSS  
-- 🔹 [**WhatsApp OTP & Bulk Messaging System**](https://github.com/M-KALIRAJAN/CnX) – Django REST + React + WhatsApp API integration  
-- 🔹 [**MERN Auth Boilerplate**](https://github.com/M-KALIRAJAN/Pagination-in-React) – Full-stack authentication with JWT & Docker  
+
+- 🔹 [**Finance App**](https://github.com/M-KALIRAJAN/Sri_Vari-Finance-) – *(Flutter + Firebase)*  
+  💰 Loan collection, due entry, and admin monitoring  
+
+- 🔹 [**Role-Based Dashboard**](https://github.com/M-KALIRAJAN/2DCAD) – *(React + TailwindCSS)*  
+  🛡️ Custom sidebar & role-based access control  
+
+- 🔹 [**WhatsApp OTP & Bulk Messaging System**](https://github.com/M-KALIRAJAN/CnX) – *(Django REST + React)*  
+  📩 Bulk messaging & WhatsApp Cloud API integration  
+
+- 🔹 [**MERN Auth Boilerplate**](https://github.com/M-KALIRAJAN/Pagination-in-React) – *(MERN + JWT + Docker)*  
+  🔑 Full-stack authentication system  
 
 ---
 
 ## 📊 GitHub Stats  
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=M-KALIRAJAN&show_icons=true&theme=tokyonight" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-KALIRAJAN&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-KALIRAJAN&theme=tokyonight" height="150"/>
+</p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=M-KALIRAJAN&color=blue)
+
 ---
 
 ## 🌍 Connect With Me  
+
 <p>
   <a href="https://www.linkedin.com/in/m-kalirajan">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -76,4 +96,4 @@
 
 ---
 
-⭐️ From [KALIRAJAN](https://github.com/M-KALIRAJAN)
+⭐️ From [Kalirajan](https://github.com/M-KALIRAJAN)  
