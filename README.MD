@@ -1,12 +1,12 @@
 # 👋 Hi, I'm KALIRAJAN 🚀  
-**Full-Stack & Mobile App Developer** | 💻 Passionate about building scalable web and mobile apps  
+**Full-Stack & Mobile App Developer** | 💻 Passionate about building scalable Web & Mobile Applications  
 
 ---
 
 ## 👨‍💻 About Me  
-- 🌱 Currently learning **MERN Stack & Flutter advanced concepts**  
-- 💡 Interested in **Web, Mobile Apps & Cloud Technologies**  
-- 🎯 Goal: To become a **versatile full-stack developer**  
+- 🌱 Currently learning **MERN Stack** & **Advanced Flutter Concepts**  
+- 💡 Interested in **Web Development, Mobile Apps & Cloud Technologies**  
+- 🎯 Goal: To become a **versatile Full-Stack Developer**  
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/m-kalirajan)  
 
 ---
@@ -14,7 +14,7 @@
 ## 🛠 Tech Stack  
 
 ### 💻 Frontend  
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
@@ -23,7 +23,7 @@
 </p>
 
 ### ⚙️ Backend  
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -31,13 +31,13 @@
 </p>
 
 ### 📱 Mobile  
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
 </p>
 
 ### 🛠 Tools & DevOps  
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -46,10 +46,10 @@
 ---
 
 ## 📂 Featured Projects  
-🔹 [**Finance App**](https://github.com/M-KALIRAJAN/Sri_Vari-Finance-) – Money collection, due entry, loan management *(Flutter + Firebase)*  
-🔹 [**Role-Based Dashboard**](https://github.com/M-KALIRAJAN/2DCAD) – React + TailwindCSS with SuperAdmin/User roles  
-🔹 [**WhatsApp OTP & Bulk Messaging System**](https://github.com/M-KALIRAJAN/CnX) – Django REST + React + WhatsApp API  
-🔹 [**MERN Auth Boilerplate**](https://github.com/M-KALIRAJAN/Pagination-in-React) – Full-stack authentication with JWT & Docker  
+- 🔹 [**Finance App**](https://github.com/M-KALIRAJAN/Sri_Vari-Finance-) – Money collection, due entry, loan management *(Flutter + Firebase)*  
+- 🔹 [**Role-Based Dashboard**](https://github.com/M-KALIRAJAN/2DCAD) – Role-based access control with React + TailwindCSS  
+- 🔹 [**WhatsApp OTP & Bulk Messaging System**](https://github.com/M-KALIRAJAN/CnX) – Django REST + React + WhatsApp API integration  
+- 🔹 [**MERN Auth Boilerplate**](https://github.com/M-KALIRAJAN/Pagination-in-React) – Full-stack authentication with JWT & Docker  
 
 ---
 
@@ -62,12 +62,12 @@
 ---
 
 ## 🌍 Connect With Me  
-<p align="left">
+<p>
   <a href="https://www.linkedin.com/in/m-kalirajan">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://your-portfolio-link.com">
-    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox"/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
   </a>
   <a href="mailto:kalirajanmurugaiya@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -76,4 +76,4 @@
 
 ---
 
-⭐️ From [KALIRAJAN](https://github.com/M-KALIRAJAN/M-KALIRAJAN)
+⭐️ From [KALIRAJAN](https://github.com/M-KALIRAJAN)
