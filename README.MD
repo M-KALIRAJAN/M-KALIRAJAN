@@ -1,7 +1,11 @@
-# 👋 Hi, I'm KALIRAJAN 🚀  
-**Full-Stack & Mobile App Developer** | 💻 Passionate about building scalable Web & Mobile Applications  
+<h1 align="center">👋 Hi, I'm KALIRAJAN 🚀</h1>
+<p align="center">
+  <b>Full-Stack & Mobile App Developer</b> | 💻 Passionate about building scalable Web & Mobile Applications
+</p>
 
-<img align="right" width="350" height="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<p align="center">
+  <img width="350" height="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+</p>
 
 ---
 
@@ -17,31 +21,36 @@
 
 ## 🛠 Tech Stack  
 
-### 💻 Frontend  
-<p>
+<p align="center">
+  
+  <!-- Frontend -->
+  <b>💻 Frontend</b><br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</p>
-
-### ⚙️ Backend  
-<p>
+  
+  <br><br>
+  
+  <!-- Backend -->
+  <b>⚙️ Backend</b><br>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-### 📱 Mobile  
-<p>
+  
+  <br><br>
+  
+  <!-- Mobile -->
+  <b>📱 Mobile</b><br>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-</p>
-
-### 🛠 Tools & DevOps  
-<p>
+  
+  <br><br>
+  
+  <!-- Tools -->
+  <b>🛠 Tools & DevOps</b><br>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -51,37 +60,40 @@
 
 ## 📂 Featured Projects  
 
-- 🔹 [**Finance App**](https://github.com/M-KALIRAJAN/Sri_Vari-Finance-) – *(Flutter + Firebase)*  
-  💰 Loan collection, due entry, and admin monitoring  
+<p align="center">
+  
+🔹 <a href="https://github.com/M-KALIRAJAN/Sri_Vari-Finance-"><b>Finance App</b></a> – *(Flutter + Firebase)*  
+💰 Loan collection, due entry, and admin monitoring  
 
-- 🔹 [**Role-Based Dashboard**](https://github.com/M-KALIRAJAN/2DCAD) – *(React + TailwindCSS)*  
-  🛡️ Custom sidebar & role-based access control  
+🔹 <a href="https://github.com/M-KALIRAJAN/2DCAD"><b>Role-Based Dashboard</b></a> – *(React + TailwindCSS)*  
+🛡️ Custom sidebar & role-based access control  
 
-- 🔹 [**WhatsApp OTP & Bulk Messaging System**](https://github.com/M-KALIRAJAN/CnX) – *(Django REST + React)*  
-  📩 Bulk messaging & WhatsApp Cloud API integration  
+🔹 <a href="https://github.com/M-KALIRAJAN/CnX"><b>WhatsApp OTP & Bulk Messaging System</b></a> – *(Django REST + React)*  
+📩 Bulk messaging & WhatsApp Cloud API integration  
 
-- 🔹 [**MERN Auth Boilerplate**](https://github.com/M-KALIRAJAN/Pagination-in-React) – *(MERN + JWT + Docker)*  
-  🔑 Full-stack authentication system  
+🔹 <a href="https://github.com/M-KALIRAJAN/Pagination-in-React"><b>MERN Auth Boilerplate</b></a> – *(MERN + JWT + Docker)*  
+🔑 Full-stack authentication system  
+
+</p>
 
 ---
 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M-KALIRAJAN&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-KALIRAJAN&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=M-KALIRAJAN&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-KALIRAJAN&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-KALIRAJAN&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-KALIRAJAN&theme=tokyonight&hide_border=true" height="180"/>
 </p>
-
 
 ---
 
 ## 🌍 Connect With Me  
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/m-kalirajan">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -95,4 +107,4 @@
 
 ---
 
-⭐️ From [Kalirajan](https://github.com/M-KALIRAJAN)  
+<p align="center">⭐️ From <a href="https://github.com/M-KALIRAJAN">Kalirajan</a></p>
