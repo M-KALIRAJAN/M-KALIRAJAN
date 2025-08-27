@@ -3,7 +3,6 @@
 
 <img align="right" width="350" height="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
----
 
 ## 👨‍💻 About Me  
 - 🔭 I’m currently working on **Full-Stack & Mobile Applications**  
@@ -13,7 +12,7 @@
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/m-kalirajan)  
 - ⚡ Fun fact: I started as a **mobile developer**, now I’m diving deep into **web & cloud** 🚀  
 
----
+
 
 ## 🛠 Tech Stack  
 
