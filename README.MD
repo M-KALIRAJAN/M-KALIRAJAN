@@ -1,7 +1,7 @@
 # 👋 Hi, I'm KALIRAJAN 🚀  
 **Full-Stack & Mobile App Developer** | 💻 Passionate about building scalable Web & Mobile Applications  
 
-<img align="right" width="300" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="350" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
 ## 👨‍💻 About Me  
