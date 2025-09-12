@@ -65,8 +65,8 @@
 
 ## 📊 GitHub Stats
 <p >
-  <img src="https://github-readme-stats.vercel.app/api?username=M-KALIRAJAN&show_icons=true&theme=tokyonight" height="120"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-KALIRAJAN&layout=compact&theme=tokyonight" height="120"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=M-KALIRAJAN&show_icons=true&theme=tokyonight" height="130"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-KALIRAJAN&layout=compact&theme=tokyonight" height="130"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-KALIRAJAN&theme=tokyonight" height="120"/>
 
 </p>
