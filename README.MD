@@ -86,4 +86,4 @@
   </a>
 </p>
 
-<p align="center">⭐️ From <a href="https://github.com/M-KALIRAJAN">KALIRAJAN</a></p>
+<p >⭐️ From <a href="https://github.com/M-KALIRAJAN">KALIRAJAN</a></p>
