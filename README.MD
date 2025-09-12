@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td valign="top">
-      <h2>👋 Hi, I'm KALIRAJAN 🚀</h2>
+      <h1>👋 Hi, I'm KALIRAJAN 🚀</h1>
       <p><strong>Full-Stack & Mobile App Developer</strong> | 💻 Passionate about building scalable Web & Mobile Applications</p>
     </td>
     <td valign="top" align="right">
@@ -86,4 +86,4 @@
   </a>
 </p>
 
-<p align="center">⭐️ From <a href="https://github.com/M-KALIRAJAN">Kalirajan</a></p>
+<p align="center">⭐️ From <a href="https://github.com/M-KALIRAJAN">KALIRAJAN</a></p>
