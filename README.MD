@@ -65,10 +65,9 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M-KALIRAJAN&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-KALIRAJAN&layout=compact&theme=tokyonight" height="160"/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-KALIRAJAN&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=M-KALIRAJAN&show_icons=true&theme=tokyonight" height="100"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-KALIRAJAN&layout=compact&theme=tokyonight" height="100"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-KALIRAJAN&theme=tokyonight" height="100"/>
 
 </p>
 
