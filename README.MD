@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td valign="top">
-      <h1>👋 Hi, I'm KALIRAJAN 🚀</h1>
+      <h2>👋 Hi, I'm KALIRAJAN 🚀</h2>
       <p><strong>Full-Stack & Mobile App Developer</strong> | 💻 Passionate about building scalable Web & Mobile Applications</p>
     </td>
     <td valign="top" align="right">
